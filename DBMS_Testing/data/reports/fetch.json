@@ -1,0 +1,15 @@
+{
+  "range": [
+    2020,
+    2020
+  ],
+  "sources": [
+    {
+      "source": "OpenAlex",
+      "status": "refreshed",
+      "records": 469,
+      "cache_records": 1281
+    }
+  ],
+  "failures": []
+}
